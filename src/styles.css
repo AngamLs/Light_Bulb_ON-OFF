@@ -1,0 +1,28 @@
+body {
+  box-sizing: border-box;
+  background: linear-gradient(to right, #33bbc5, #85e6c5);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bulb {
+  margin-left: 35.5%;
+  margin-top: 1vh;
+  border-radius: 100%;
+}
+
+button {
+  padding: 10px 32px;
+  margin-left: 47%;
+  margin-top: 5vh;
+  border-radius: 7px;
+  box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.8);
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5vh;
+}
